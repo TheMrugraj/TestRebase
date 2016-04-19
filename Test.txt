@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello Master
 Sub
+=======
+>>>>>>> 88c3c1900422948de94fbed6e90498089a9f8449
+Hello Master - 1234
